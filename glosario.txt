@@ -1,0 +1,5 @@
+ejercicio_1.java --- utilizacion de lectura scanner
+ejercicio_2.java --- lectura y mostrar matriz  
+lab_1.java --- ejercicio promediode vector
+lab_2.java --- si encuentra numero matriz muestra posicion
+lab_3.java --- matriz poco densa valores cero 
